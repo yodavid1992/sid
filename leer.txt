@@ -1,0 +1,1 @@
+Requiere de las Librerias PHPExcel 5.2.0 y PHPMailer 5.2.22
